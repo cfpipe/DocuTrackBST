@@ -18,8 +18,8 @@ Proyecto desarrollado en C# bajo arquitectura MVC que implementa un Árbol Binar
 - Controller
 
 ## Integrantes
-- Cristian Felipe Barreto
-- Juan Camilo Giraldo
+- Cristian Felipe Barreto Marulanda
+- Juan Camilo Giraldo Aristizabal
 
 
 ## Ejecución
