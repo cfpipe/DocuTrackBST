@@ -1,4 +1,4 @@
-# DocuTrackBST
+# DocuTrack S.A
 
 ## Descripción
 Proyecto desarrollado en C# bajo arquitectura MVC que implementa un Árbol Binario de Búsqueda (BST) para modelar documentos y carpetas.
