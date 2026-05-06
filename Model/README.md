@@ -26,3 +26,4 @@ Proyecto desarrollado en C# bajo arquitectura MVC que implementa un Árbol Binar
 
 ```bash
 dotnet run
+```
