@@ -1,0 +1,14 @@
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\bin\Debug\net9.0\DocuTrackBST.exe
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\bin\Debug\net9.0\DocuTrackBST.deps.json
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\bin\Debug\net9.0\DocuTrackBST.runtimeconfig.json
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\bin\Debug\net9.0\DocuTrackBST.dll
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\bin\Debug\net9.0\DocuTrackBST.pdb
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.AssemblyInfoInputs.cache
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.AssemblyInfo.cs
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.csproj.CoreCompileInputs.cache
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.dll
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\refint\DocuTrackBST.dll
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.pdb
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.genruntimeconfig.cache
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\ref\DocuTrackBST.dll
