@@ -12,3 +12,4 @@ C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\refin
 C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.pdb
 C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.genruntimeconfig.cache
 C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\ref\DocuTrackBST.dll
+C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.sourcelink.json

@@ -14,8 +14,21 @@ namespace Controller
 
             string[] datos =
             {
-                "M","C","T","A","E","P","Z",
-                "B","D","F","R","X","Y","Q"
+                "Programacion",
+                "Calculo",
+                "Redes",
+                "BaseDatos",
+                "ParcialPOO",
+                "Talleres",
+                "Fotos",
+                "Musica",
+                "Documentos",
+                "Horarios",
+                "Vacaciones",
+                "Recibos",
+                "Videos",
+                "Trabajos",
+                "Descargas"
             };
 
             foreach (var item in datos)
@@ -23,28 +36,86 @@ namespace Controller
 
             vista.ImprimirArbol(arbol.Raiz);
 
+            // BUSQUEDAS
+
             vista.MostrarTitulo("BUSQUEDAS");
 
-            Buscar("A");
-            Buscar("F");
-            Buscar("Z");
-            Buscar("NOEXISTE");
+            Buscar("Calculo");
+            Buscar("BaseDatos");
 
-            vista.MostrarTitulo("ACTUALIZACION");
+            Buscar("Vacaciones");
+            Buscar("Videos");
 
-            arbol.Actualizar("A", "AA");
+            Buscar("NoExiste1");
+            Buscar("NoExiste2");
+
+            // ACTUALIZACIONES
+
+            vista.MostrarTitulo("ACTUALIZACION HOJA");
+
+            arbol.Actualizar("Videos", "Videos2025");
 
             vista.ImprimirArbol(arbol.Raiz);
 
-            vista.MostrarTitulo("ELIMINACION");
+            vista.MostrarTitulo("ACTUALIZACION NODO CON HIJO");
 
-            arbol.Raiz = arbol.Eliminar(arbol.Raiz, "C");
+            arbol.Actualizar("Musica", "MusicaMP3");
 
             vista.ImprimirArbol(arbol.Raiz);
+
+            vista.MostrarTitulo("ACTUALIZACION RAIZ");
+
+            arbol.Actualizar("Programacion", "ProgramacionIII");
+
+            vista.ImprimirArbol(arbol.Raiz);
+
+            // ELIMINACIONES
+
+            vista.MostrarTitulo("ELIMINAR HOJA");
+
+            arbol.Raiz = arbol.Eliminar(arbol.Raiz, "Recibos");
+
+            vista.ImprimirArbol(arbol.Raiz);
+
+            vista.MostrarTitulo("ELIMINAR NODO CON HIJO");
+
+            arbol.Raiz = arbol.Eliminar(arbol.Raiz, "MusicaMP3");
+
+            vista.ImprimirArbol(arbol.Raiz);
+
+            vista.MostrarTitulo("ELIMINAR RAIZ");
+
+            arbol.Raiz = arbol.Eliminar(arbol.Raiz, "ProgramacionIII");
+
+            vista.ImprimirArbol(arbol.Raiz);
+
+            // RECORRIDOS
+
+            vista.MostrarTitulo("RECORRIDO PREORDEN");
+
+            arbol.PreOrden(arbol.Raiz);
+
+            System.Console.WriteLine();
 
             vista.MostrarTitulo("RECORRIDO INORDEN");
 
             arbol.InOrden(arbol.Raiz);
+
+            System.Console.WriteLine();
+
+            vista.MostrarTitulo("RECORRIDO POSTORDEN");
+
+            arbol.PostOrden(arbol.Raiz);
+
+            System.Console.WriteLine();
+
+            vista.MostrarTitulo("RECORRIDO POR NIVELES");
+
+            arbol.PorNiveles();
+
+            System.Console.WriteLine();
+
+            // ALTURA
 
             vista.MostrarTitulo("ALTURA");
 

@@ -129,5 +129,51 @@ namespace Model
                 Altura(nodo.Derecho)
             );
         }
+        public void PreOrden(Nodo nodo)
+{
+            if (nodo != null)
+           {
+               Console.Write(nodo.Nombre + " ");
+
+               PreOrden(nodo.Izquierdo);
+
+               PreOrden(nodo.Derecho);
+    }
+}
+
+public void PostOrden(Nodo nodo)
+{
+    if (nodo != null)
+    {
+        PostOrden(nodo.Izquierdo);
+
+        PostOrden(nodo.Derecho);
+
+        Console.Write(nodo.Nombre + " ");
+    }
+}
+
+public void PorNiveles()
+{
+    if (Raiz == null)
+        return;
+
+    Queue<Nodo> cola = new Queue<Nodo>();
+
+    cola.Enqueue(Raiz);
+
+    while (cola.Count > 0)
+    {
+        Nodo actual = cola.Dequeue();
+
+        Console.Write(actual.Nombre + " ");
+
+        if (actual.Izquierdo != null)
+            cola.Enqueue(actual.Izquierdo);
+
+        if (actual.Derecho != null)
+            cola.Enqueue(actual.Derecho);
+    }
+}
     }
 }
