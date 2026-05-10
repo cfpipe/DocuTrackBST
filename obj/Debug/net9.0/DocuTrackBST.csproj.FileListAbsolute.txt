@@ -13,3 +13,17 @@ C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuT
 C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.genruntimeconfig.cache
 C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\ref\DocuTrackBST.dll
 C:\Users\cristian.barreto\Documents\Program1\DocuTrackBST\obj\Debug\net9.0\DocuTrackBST.sourcelink.json
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net9.0\DocuTrackBST.exe
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net9.0\DocuTrackBST.deps.json
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net9.0\DocuTrackBST.runtimeconfig.json
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net9.0\DocuTrackBST.dll
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net9.0\DocuTrackBST.pdb
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.AssemblyInfoInputs.cache
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.AssemblyInfo.cs
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.csproj.CoreCompileInputs.cache
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.dll
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\refint\DocuTrackBST.dll
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.pdb
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\DocuTrackBST.genruntimeconfig.cache
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net9.0\ref\DocuTrackBST.dll

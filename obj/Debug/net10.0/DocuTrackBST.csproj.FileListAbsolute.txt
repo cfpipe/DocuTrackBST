@@ -1,0 +1,14 @@
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net10.0\DocuTrackBST.exe
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net10.0\DocuTrackBST.deps.json
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net10.0\DocuTrackBST.runtimeconfig.json
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net10.0\DocuTrackBST.dll
+C:\Users\Jcamilo\Documents\Programacion_III\c#\bin\Debug\net10.0\DocuTrackBST.pdb
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.AssemblyInfoInputs.cache
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.AssemblyInfo.cs
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.csproj.CoreCompileInputs.cache
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.dll
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\refint\DocuTrackBST.dll
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.pdb
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\DocuTrackBST.genruntimeconfig.cache
+C:\Users\Jcamilo\Documents\Programacion_III\c#\obj\Debug\net10.0\ref\DocuTrackBST.dll
